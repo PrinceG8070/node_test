@@ -3,7 +3,7 @@ name: Build Pipeline
 on:
   push:
     branches:
-      - 'copy-paste-your-branch-name'
+      - AS123-1 Login page
 
 jobs:
   build:
