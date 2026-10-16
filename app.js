@@ -12,7 +12,7 @@ app.post('/todos', (req, res) => {
 
 if (require.main === module) {
   app.listen(3000, () => {
-    console.log('App running on port 3000');
+    console.log('App running onjju port 3000');
   });
 }
 
